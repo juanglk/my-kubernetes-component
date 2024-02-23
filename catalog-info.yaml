@@ -6,5 +6,5 @@ metadata:
   name: my-kubernetes-component
 spec:
   lifecycle: production
-  owner: my-team
+  owner: user:guest
   type: service
